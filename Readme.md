@@ -1,7 +1,8 @@
 <h1> ODIN RECIPES PROJECT TO GET HANDS ON HTML </h1> <br>
 
-<h3> LIVE PREVIEW </h3>
-[ODIN RECIPES](https://notcoder-akash.github.io/odin_recipes/)
+<h3> LIVE PREVIEW </h3>  
+
+*[ODIN RECIPES](https://notcoder-akash.github.io/odin_recipes/)*
 
 
 
