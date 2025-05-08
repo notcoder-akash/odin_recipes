@@ -7,6 +7,8 @@
 
 
 <br> <h3> THE WEBSITE PRACTICES </h3>
-  CLEAN WEBSITE <br>
-  CLEAN FONTS<br>
-  APPEALING TO EYES<br><br>
+  Clean Website Design <br>
+  Readable Fonts <br>
+  Appealing to eyes <br>
+
+> Recommmended Brightness 90%
