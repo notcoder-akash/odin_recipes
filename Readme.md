@@ -2,6 +2,8 @@
 
 <h3> LIVE PREVIEW </h3>  
 
+<h3> learning git and doing a pull request </h3>
+
 *[ODIN RECIPES](https://notcoder-akash.github.io/odin_recipes/)*
 
 
