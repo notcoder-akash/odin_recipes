@@ -4,6 +4,7 @@
 
 <h3> learning git and doing a pull request </h3>
 <h3> creating 2nd pull request </h3>
+<h3> learning to link commits to main branches</h3>
 
 *[ODIN RECIPES](https://notcoder-akash.github.io/odin_recipes/)*
 
